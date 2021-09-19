@@ -1,0 +1,14 @@
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif, monospace;
+}
+.header {
+  padding: 100px;
+  text-align: center;
+  background: PaleTurquoise;
+  color: white;
+}
+.header h1 {
+  font-size: 60px;
+}
+</style>
